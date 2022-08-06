@@ -1,0 +1,15 @@
+C:\Users\Ира\Desktop\Обучение\обучение_C#\seminar_dz\dz-4_3variant\bin\MCD\Debug\net6.0\dz-4_3variant.exe
+C:\Users\Ира\Desktop\Обучение\обучение_C#\seminar_dz\dz-4_3variant\bin\MCD\Debug\net6.0\dz-4_3variant.deps.json
+C:\Users\Ира\Desktop\Обучение\обучение_C#\seminar_dz\dz-4_3variant\bin\MCD\Debug\net6.0\dz-4_3variant.runtimeconfig.json
+C:\Users\Ира\Desktop\Обучение\обучение_C#\seminar_dz\dz-4_3variant\bin\MCD\Debug\net6.0\dz-4_3variant.dll
+C:\Users\Ира\Desktop\Обучение\обучение_C#\seminar_dz\dz-4_3variant\bin\MCD\Debug\net6.0\dz-4_3variant.pdb
+C:\Users\Ира\Desktop\Обучение\обучение_C#\seminar_dz\dz-4_3variant\obj\MCD\Debug\net6.0\dz-4_3variant.csproj.AssemblyReference.cache
+C:\Users\Ира\Desktop\Обучение\обучение_C#\seminar_dz\dz-4_3variant\obj\MCD\Debug\net6.0\dz-4_3variant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ира\Desktop\Обучение\обучение_C#\seminar_dz\dz-4_3variant\obj\MCD\Debug\net6.0\dz-4_3variant.AssemblyInfoInputs.cache
+C:\Users\Ира\Desktop\Обучение\обучение_C#\seminar_dz\dz-4_3variant\obj\MCD\Debug\net6.0\dz-4_3variant.AssemblyInfo.cs
+C:\Users\Ира\Desktop\Обучение\обучение_C#\seminar_dz\dz-4_3variant\obj\MCD\Debug\net6.0\dz-4_3variant.csproj.CoreCompileInputs.cache
+C:\Users\Ира\Desktop\Обучение\обучение_C#\seminar_dz\dz-4_3variant\obj\MCD\Debug\net6.0\dz-4_3variant.dll
+C:\Users\Ира\Desktop\Обучение\обучение_C#\seminar_dz\dz-4_3variant\obj\MCD\Debug\net6.0\refint\dz-4_3variant.dll
+C:\Users\Ира\Desktop\Обучение\обучение_C#\seminar_dz\dz-4_3variant\obj\MCD\Debug\net6.0\dz-4_3variant.pdb
+C:\Users\Ира\Desktop\Обучение\обучение_C#\seminar_dz\dz-4_3variant\obj\MCD\Debug\net6.0\dz-4_3variant.genruntimeconfig.cache
+C:\Users\Ира\Desktop\Обучение\обучение_C#\seminar_dz\dz-4_3variant\obj\MCD\Debug\net6.0\ref\dz-4_3variant.dll

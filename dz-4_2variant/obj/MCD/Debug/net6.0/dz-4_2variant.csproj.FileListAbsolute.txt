@@ -1,0 +1,15 @@
+C:\Users\Ира\Desktop\Обучение\обучение_C#\seminar_dz\dz-4_2variant\obj\MCD\Debug\net6.0\dz-4_2variant.csproj.AssemblyReference.cache
+C:\Users\Ира\Desktop\Обучение\обучение_C#\seminar_dz\dz-4_2variant\obj\MCD\Debug\net6.0\dz-4_2variant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ира\Desktop\Обучение\обучение_C#\seminar_dz\dz-4_2variant\obj\MCD\Debug\net6.0\dz-4_2variant.AssemblyInfoInputs.cache
+C:\Users\Ира\Desktop\Обучение\обучение_C#\seminar_dz\dz-4_2variant\obj\MCD\Debug\net6.0\dz-4_2variant.AssemblyInfo.cs
+C:\Users\Ира\Desktop\Обучение\обучение_C#\seminar_dz\dz-4_2variant\obj\MCD\Debug\net6.0\dz-4_2variant.csproj.CoreCompileInputs.cache
+C:\Users\Ира\Desktop\Обучение\обучение_C#\seminar_dz\dz-4_2variant\bin\MCD\Debug\net6.0\dz-4_2variant.exe
+C:\Users\Ира\Desktop\Обучение\обучение_C#\seminar_dz\dz-4_2variant\bin\MCD\Debug\net6.0\dz-4_2variant.deps.json
+C:\Users\Ира\Desktop\Обучение\обучение_C#\seminar_dz\dz-4_2variant\bin\MCD\Debug\net6.0\dz-4_2variant.runtimeconfig.json
+C:\Users\Ира\Desktop\Обучение\обучение_C#\seminar_dz\dz-4_2variant\bin\MCD\Debug\net6.0\dz-4_2variant.dll
+C:\Users\Ира\Desktop\Обучение\обучение_C#\seminar_dz\dz-4_2variant\bin\MCD\Debug\net6.0\dz-4_2variant.pdb
+C:\Users\Ира\Desktop\Обучение\обучение_C#\seminar_dz\dz-4_2variant\obj\MCD\Debug\net6.0\dz-4_2variant.dll
+C:\Users\Ира\Desktop\Обучение\обучение_C#\seminar_dz\dz-4_2variant\obj\MCD\Debug\net6.0\refint\dz-4_2variant.dll
+C:\Users\Ира\Desktop\Обучение\обучение_C#\seminar_dz\dz-4_2variant\obj\MCD\Debug\net6.0\dz-4_2variant.pdb
+C:\Users\Ира\Desktop\Обучение\обучение_C#\seminar_dz\dz-4_2variant\obj\MCD\Debug\net6.0\dz-4_2variant.genruntimeconfig.cache
+C:\Users\Ира\Desktop\Обучение\обучение_C#\seminar_dz\dz-4_2variant\obj\MCD\Debug\net6.0\ref\dz-4_2variant.dll

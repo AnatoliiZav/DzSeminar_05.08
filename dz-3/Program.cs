@@ -1,9 +1,7 @@
 ﻿Console.WriteLine("Введите число: ");
 int a = int.Parse(Console.ReadLine());
 
-int b = a / 2;
-
-if (b * 2 == a)
+if (a % 2 == 0)
 {
     Console.WriteLine($"{a} является четным");
 }
